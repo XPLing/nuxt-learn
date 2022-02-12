@@ -12,7 +12,7 @@
     "lint": "eslint --fix --ext .js,.vue --ignore-path .eslintignore ."
   },
   "dependencies": {
-    "ajv": "6.5.3",
+    "ajv": "6.12.3",
     "axios": "0.18.0",
     "cross-env": "5.0.1",
     "koa": "2.4.1",
